@@ -1,0 +1,44 @@
+Thread title: [ROM][10.0] HornbillOS [2020/09/28]
+
+[CENTER]
+[img]https://raw.githubusercontent.com/HornbillOS/docs/master/src/hornbillbanner.png[/img]
+[SIZE="5"][b][color=#a682fa]HornbillOS, stock experience with design tweaks and open source apps. It’s all about making your phone a better daily driver like LineageOS. [codename][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#a682fa]What is this?[/color][/b][/SIZE]
+[SIZE="3"] HornbillOS is an AOSP based ROM, with some own open source apps (Notes , Etc.). Hornbill contains almost all AOSP and Pixel goodies.
+
+Our mission is to offer the maximum possible stability and security, along with some own made open source apps.
+
+Based on Android 10.0
+[/SIZE]
+
+[SIZE="3"][B]Google Apps Are Included, do not flash again![/B][/SIZE]
+
+[SIZE="4"][b][color=#a682fa]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wifi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FMRadio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound / vibration[/SIZE]
+
+[SIZE="4"][b][color=#a682fa]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="4"][b][color=#a682fa]Stay tuned[/color][/b][/SIZE]
+[SIZE="3"][url="https://t.me/HornbillOSFeeds"][b][color=#a682fa][u]Our Telegram channel[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://hornbillos.github.io"][b][color=#a682fa][u]Our Web Page[/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Source code : [/b] [url="http://github.com/HornbillOS"]http://github.com/HornbillOS[/url]
+[/list][/SIZE][/LEFT]
