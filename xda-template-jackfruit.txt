@@ -30,6 +30,8 @@ NFC
 Lights
 Sound / vibration[/SIZE]
 
+[SIZE="3"][url="https://sourceforge.net/projects/hornbillos/files/DEVICE_CODENAME/"][b][color=#1a73e8][u]Download from Sourceforge[/u][/color][/b][/url][/SIZE]
+
 [SIZE="4"][b][color=#a682fa]Known issues[/color][/b][/SIZE]
 [SIZE="3"]Nothing yet[/SIZE]
 [SIZE="3"]You tell me[/SIZE]
