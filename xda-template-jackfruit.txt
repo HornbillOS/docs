@@ -1,7 +1,7 @@
 Thread title: [ROM][10.0] HornbillOS [2020/09/28]
 
 [CENTER]
-[img]https://raw.githubusercontent.com/HornbillOS/docs/master/src/hornbillbanner.png[/img]
+[img]https://raw.githubusercontent.com/HornbillOS/docs/master/src/hornbill-xda.png[/img]
 [SIZE="5"][b][color=#a682fa]HornbillOS, stock experience with design tweaks and open source apps. It’s all about making your phone a better daily driver like LineageOS. [codename][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#a682fa]What is this?[/color][/b][/SIZE]
