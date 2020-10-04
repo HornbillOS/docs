@@ -2,7 +2,7 @@ Thread title: [ROM][10.0] HornbillOS [2020/09/28]
 
 [CENTER]
 [img]https://raw.githubusercontent.com/HornbillOS/docs/master/src/hornbill-xda.png[/img]
-[SIZE="5"][b][color=#a682fa]HornbillOS, stock experience with design tweaks and open source apps. It’s all about making your phone a better daily driver like LineageOS. [codename][/color][/b][/SIZE]
+[SIZE="4"][b][color=#a682fa]HornbillOS, stock experience with design tweaks and open source apps. It’s all about making your phone a better daily driver like LineageOS. [codename][/color][/b][/SIZE]
 
 [SIZE="4"][b][color=#a682fa]What is this?[/color][/b][/SIZE]
 [SIZE="3"] HornbillOS is an AOSP based ROM, with some own open source apps (Notes , Etc.). Hornbill contains almost all AOSP and Pixel goodies.
@@ -11,6 +11,8 @@ Our mission is to offer the maximum possible stability and security, along with 
 
 Based on Android 10.0
 [/SIZE]
+
+[SIZE="3"][url="https://sourceforge.net/projects/hornbillos/files/DEVICE_CODENAME/"][b][color=#1a73e8][u]Download from Sourceforge[/u][/color][/b][/url][/SIZE]
 
 [SIZE="3"][B]Google Apps Are Included, do not flash again![/B][/SIZE]
 
@@ -30,8 +32,6 @@ NFC
 Lights
 Sound / vibration[/SIZE]
 
-[SIZE="3"][url="https://sourceforge.net/projects/hornbillos/files/DEVICE_CODENAME/"][b][color=#1a73e8][u]Download from Sourceforge[/u][/color][/b][/url][/SIZE]
-
 [SIZE="4"][b][color=#a682fa]Known issues[/color][/b][/SIZE]
 [SIZE="3"]Nothing yet[/SIZE]
 [SIZE="3"]You tell me[/SIZE]
@@ -42,5 +42,7 @@ Sound / vibration[/SIZE]
 [/CENTER]
 
 [LEFT][SIZE="3"][list]
+[*][b]Build Author/Maintainer : [/b] [url="http://github.com/HornbillOS"]http://github.com/HornbillOS[/url]
+[*][b]Kernel Source : [/b] [url="http://github.com/HornbillOS"]http://github.com/HornbillOS[/url]
 [*][b]Source code : [/b] [url="http://github.com/HornbillOS"]http://github.com/HornbillOS[/url]
 [/list][/SIZE][/LEFT]
