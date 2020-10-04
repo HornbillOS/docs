@@ -7,3 +7,4 @@
 - [Telegram Support Group](https://t.me/hornbillos)
 - [Telegram Channel](https://t.me/HornbillOSFeeds)
 - [Required Commit for device tree](https://github.com/HornbillOS-Devices/required_commits)
+- [HornbillOS-Device](https://github.com/HornbillOS-Devices)
