@@ -22,7 +22,7 @@ Device Requirements
 
 Maintainers Code of Conduct
 
-+  All theirs device sources on [HornbillOS-Device](https://github.com/HornbillOS-Devices) organization. It goes without saying that these should be fully buildable. Using external repos for build releases aren't allowed, unless they're from LineageOS/TheMuppets and Sony Open Devices Project (SODP) organizations. Exceptions may be open if only it's a really big need.
++  All theirs device sources(except) on [HornbillOS-Device](https://github.com/HornbillOS-Devices) organization. It goes without saying that these should be fully buildable. Using external repos for build releases aren't allowed, unless they're from LineageOS/TheMuppets and Sony Open Devices Project (SODP) organizations. Exceptions may be open if only it's a really big need.
 + Changelogs for each build. These MUST be user-friendly, simplifying the changes for the average user who aren't aware of things like Safetynet or color calibration, but would like to know what has changed since the last update.
 + Any Google applications that aren't available from ROM sources - except GoogleCamera is acceptable, but please ensure that you use a reliable source and that the device has proper support for them.
 
