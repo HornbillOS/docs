@@ -12,7 +12,7 @@ Our mission is to offer the maximum possible stability and security, along with 
 Based on Android 10.0
 [/SIZE]
 
-[SIZE="3"][url="https://sourceforge.net/projects/hornbillos/files/DEVICE_CODENAME/"][b][color=#1a73e8][u]Download from Sourceforge[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://sourceforge.net/projects/hornbillos/files/DEVICE_CODENAME/ten"][b][color=#1a73e8][u]Download from Sourceforge[/u][/color][/b][/url][/SIZE]
 
 [SIZE="3"][B]Google Apps Are Included, do not flash again![/B][/SIZE]
 

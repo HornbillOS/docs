@@ -1,0 +1,49 @@
+Thread title: [ROM][eleven][DEVICE] HornbillOS v2.x.x[AOSP]
+
+[CENTER]
+[img]https://raw.githubusercontent.com/HornbillOS/docs/master/src/hornbill-xda.png[/img]
+[SIZE="5"][b][color=#a682fa]HornbillOS for DeviceName [codename][/color][/b][/SIZE]
+
+[SIZE="4"][b][color=#a682fa]What is this?[/color][/b][/SIZE]
+[SIZE="4"][b][color=#a682fa]HornbillOS, stock experience with design tweaks and open source apps. It’s all about making your phone a better daily driver like LineageOS.[/color][/b][/SIZE]
+
+Our mission is to offer the maximum possible stability and security, along with some own made open source apps.
+
+Based on Android 11
+[/SIZE]
+
+[SIZE="4"][b][color=#a682fa]Whats working?[/color][/b][/SIZE]
+[SIZE="3"]Wi-Fi
+RIL
+Mobile data
+GPS
+Camera
+Flashlight
+Camcorder
+Bluetooth
+FM radio
+Fingerprint reader
+Face unlock
+NFC
+Lights
+Sound/vibration[/SIZE]
+
+[SIZE="4"][b][color=#a682fa]Known issues[/color][/b][/SIZE]
+[SIZE="3"]Nothing yet[/SIZE]
+[SIZE="3"]You tell me[/SIZE]
+
+[SIZE="3"][B]DON'T FLASH GAPPS, THEY'RE ALREADY INCLUDED[/B][/SIZE]
+[SIZE="3"][url="https://sourceforge.net/projects/hornbillos/files/DEVICE_CODENAME/eleven"][b][color=#1a73e8][u]Download from Sourceforge[/u][/color][/b][/url][/SIZE]
+
+[SIZE="4"][b][color=#a682fa]Stay tuned[/color][/b][/SIZE]
+[SIZE="3"][url="https://t.me/HornbillOSFeeds"][b][color=#a682fa][u]Our Telegram channel[/u][/color][/b][/url][/SIZE]
+[SIZE="3"][url="https://hornbillos.github.io"][b][color=#a682fa][u]Our Web Page[/u][/color][/b][/url][/SIZE]
+[/CENTER]
+
+[LEFT][SIZE="3"][list]
+[*][b]Android OS version:[/b] 11.0.0_r19
+[*][b]Security patch level:[/b] December 2020
+[*][b]Build author/Device Maintainer:[/b] [url=XDA_PROFILE_URL]XDA_USERNAME[/url]
+[*][b]Device Source code:[/b] [url=https://github.com/HornbillOS-Devices]https://github.com/HornbillOS-Devices[/url]
+[*][b]Source code:[/b] [url=https://github.com/HornbillOS]https://github.com/HornbillOS[/url]
+[/list][/SIZE][/LEFT]
